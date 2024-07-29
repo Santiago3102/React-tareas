@@ -1,3 +1,15 @@
+
+#Description
+This project is a basic React practice application where a simple to-do board is created. Users can add, edit, and remove tasks. The project aims to demonstrate fundamental React concepts and state management in a straightforward to-do list application.
+
+#Features
+Add Tasks: Users can add new tasks to the board.
+Edit Tasks: Users can edit existing tasks.
+Remove Tasks: Users can delete tasks from the board.
+Simple User Interface: Intuitive and easy-to-use interface for task management.
+
+![Screenshot](https://github.com/Santiago3102/React-tareas/blob/master/Task%20react.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
